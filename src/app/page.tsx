@@ -24,11 +24,7 @@ export default function Home() {
             description="Diseño para restaurante con reservas online."
             imgUrl="/restaurant.png"
           />
-          <ProjectCard
-            title="Evento JSConf 2024"
-            description="Landing para registro de asistentes."
-            imgUrl="/event.png"
-          />
+        
         </section>
       </main>
       <Footer />
