@@ -14,10 +14,10 @@ export default function Home() {
           </p>
         </section>
         <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <ProjectCard
-            title="Startup TechGrow"
-            description="Landing Page para una startup tecnológica."
-            imgUrl="/techgrow.png"
+        <ProjectCard
+            title="CEDM Chile"
+            description="Desarrollo del sitio web para el Centro de Educación a Distancia de Chile."
+            imgUrl="/cdemchile.png" // Asegúrate de tener la imagen adecuada
           />
           <ProjectCard
             title="Restaurante Gourmet"
