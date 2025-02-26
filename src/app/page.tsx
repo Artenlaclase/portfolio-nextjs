@@ -20,11 +20,15 @@ export default function Home() {
             imgUrl="/cdemchile.png" // Asegúrate de tener la imagen adecuada
           />
           <ProjectCard
-            title="Restaurante Gourmet"
-            description="Diseño para restaurante con reservas online."
-            imgUrl="/restaurant.png"
+            title="Oceánica Web"
+            description="Diseño para organización de desarrollo de software."
+            imgUrl="/Oceanicaweb.png"
           />
-        
+         <ProjectCard
+            title="Artenlaclase"
+            description="Diseño para organización de Educación Artística."
+            imgUrl="/Oceanicaweb.png"
+          />
         </section>
       </main>
       <Footer />
