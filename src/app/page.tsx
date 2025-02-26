@@ -14,16 +14,17 @@ export default function Home() {
           </p>
         </section>
         <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        <ProjectCard
-            title="CEDM Chile"
-            description="Desarrollo del sitio web para el Centro de Educación a Distancia de Chile."
-            imgUrl="/cdemchile.png" // Asegúrate de tener la imagen adecuada
-          />
-          <ProjectCard
+         <ProjectCard
             title="Oceánica Web"
             description="Diseño para organización de desarrollo de software."
             imgUrl="/Oceanicaweb.png"
           />
+          <ProjectCard
+            title="CEDM Chile"
+            description="Desarrollo del sitio web para el Centro de Educación a Distancia de Chile."
+            imgUrl="/cdemchile.png" // Asegúrate de tener la imagen adecuada
+          />
+         
          <ProjectCard
             title="Artenlaclase"
             description="Diseño para organización de Educación Artística."
